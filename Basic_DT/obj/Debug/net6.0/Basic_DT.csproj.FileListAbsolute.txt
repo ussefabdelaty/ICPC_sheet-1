@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\Basic_DT\bin\Debug\net6.0\Basic_DT.exe
+E:\issam_csharp\ICPC_prob\Basic_DT\bin\Debug\net6.0\Basic_DT.deps.json
+E:\issam_csharp\ICPC_prob\Basic_DT\bin\Debug\net6.0\Basic_DT.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\Basic_DT\bin\Debug\net6.0\Basic_DT.dll
+E:\issam_csharp\ICPC_prob\Basic_DT\bin\Debug\net6.0\Basic_DT.pdb
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.dll
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\refint\Basic_DT.dll
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.pdb
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\Basic_DT.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\Basic_DT\obj\Debug\net6.0\ref\Basic_DT.dll
