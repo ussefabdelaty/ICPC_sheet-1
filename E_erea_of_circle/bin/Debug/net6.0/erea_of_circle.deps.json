@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "erea_of_circle/1.0.0": {
+        "runtime": {
+          "erea_of_circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "erea_of_circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

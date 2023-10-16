@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\erea_of_circle\bin\Debug\net6.0\erea_of_circle.exe
+E:\issam_csharp\ICPC_prob\erea_of_circle\bin\Debug\net6.0\erea_of_circle.deps.json
+E:\issam_csharp\ICPC_prob\erea_of_circle\bin\Debug\net6.0\erea_of_circle.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\erea_of_circle\bin\Debug\net6.0\erea_of_circle.dll
+E:\issam_csharp\ICPC_prob\erea_of_circle\bin\Debug\net6.0\erea_of_circle.pdb
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.dll
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\refint\erea_of_circle.dll
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.pdb
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\erea_of_circle.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\erea_of_circle\obj\Debug\net6.0\ref\erea_of_circle.dll
