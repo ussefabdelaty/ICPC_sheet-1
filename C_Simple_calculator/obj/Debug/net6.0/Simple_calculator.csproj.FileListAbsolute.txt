@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\Simple_calculator\bin\Debug\net6.0\Simple_calculator.exe
+E:\issam_csharp\ICPC_prob\Simple_calculator\bin\Debug\net6.0\Simple_calculator.deps.json
+E:\issam_csharp\ICPC_prob\Simple_calculator\bin\Debug\net6.0\Simple_calculator.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\Simple_calculator\bin\Debug\net6.0\Simple_calculator.dll
+E:\issam_csharp\ICPC_prob\Simple_calculator\bin\Debug\net6.0\Simple_calculator.pdb
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.dll
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\refint\Simple_calculator.dll
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.pdb
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\Simple_calculator.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\Simple_calculator\obj\Debug\net6.0\ref\Simple_calculator.dll
