@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\H_two_numbers\bin\Debug\net6.0\H_two_numbers.exe
+E:\issam_csharp\ICPC_prob\H_two_numbers\bin\Debug\net6.0\H_two_numbers.deps.json
+E:\issam_csharp\ICPC_prob\H_two_numbers\bin\Debug\net6.0\H_two_numbers.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\H_two_numbers\bin\Debug\net6.0\H_two_numbers.dll
+E:\issam_csharp\ICPC_prob\H_two_numbers\bin\Debug\net6.0\H_two_numbers.pdb
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.dll
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\refint\H_two_numbers.dll
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.pdb
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\H_two_numbers.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\H_two_numbers\obj\Debug\net6.0\ref\H_two_numbers.dll
