@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I_welcome_for_you/1.0.0": {
+        "runtime": {
+          "I_welcome_for_you.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I_welcome_for_you/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
