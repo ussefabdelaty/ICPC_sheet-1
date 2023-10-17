@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\F_Digit_Summition\bin\Debug\net6.0\F_Digit_Summition.exe
+E:\issam_csharp\02_oop\F_Digit_Summition\bin\Debug\net6.0\F_Digit_Summition.deps.json
+E:\issam_csharp\02_oop\F_Digit_Summition\bin\Debug\net6.0\F_Digit_Summition.runtimeconfig.json
+E:\issam_csharp\02_oop\F_Digit_Summition\bin\Debug\net6.0\F_Digit_Summition.dll
+E:\issam_csharp\02_oop\F_Digit_Summition\bin\Debug\net6.0\F_Digit_Summition.pdb
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.AssemblyInfo.cs
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.dll
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\refint\F_Digit_Summition.dll
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.pdb
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\F_Digit_Summition.genruntimeconfig.cache
+E:\issam_csharp\02_oop\F_Digit_Summition\obj\Debug\net6.0\ref\F_Digit_Summition.dll

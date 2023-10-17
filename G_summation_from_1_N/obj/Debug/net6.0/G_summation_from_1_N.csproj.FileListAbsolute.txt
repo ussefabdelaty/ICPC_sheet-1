@@ -1,0 +1,15 @@
+E:\issam_csharp\02_oop\G_summation_from_1_N\bin\Debug\net6.0\G_summation_from_1_N.exe
+E:\issam_csharp\02_oop\G_summation_from_1_N\bin\Debug\net6.0\G_summation_from_1_N.deps.json
+E:\issam_csharp\02_oop\G_summation_from_1_N\bin\Debug\net6.0\G_summation_from_1_N.runtimeconfig.json
+E:\issam_csharp\02_oop\G_summation_from_1_N\bin\Debug\net6.0\G_summation_from_1_N.dll
+E:\issam_csharp\02_oop\G_summation_from_1_N\bin\Debug\net6.0\G_summation_from_1_N.pdb
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.csproj.AssemblyReference.cache
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.AssemblyInfoInputs.cache
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.AssemblyInfo.cs
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.csproj.CoreCompileInputs.cache
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.dll
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\refint\G_summation_from_1_N.dll
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.pdb
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\G_summation_from_1_N.genruntimeconfig.cache
+E:\issam_csharp\02_oop\G_summation_from_1_N\obj\Debug\net6.0\ref\G_summation_from_1_N.dll
