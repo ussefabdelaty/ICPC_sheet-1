@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\bin\Debug\net6.0\M_ Capital_or_Small_or_Digit.exe
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\bin\Debug\net6.0\M_ Capital_or_Small_or_Digit.deps.json
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\bin\Debug\net6.0\M_ Capital_or_Small_or_Digit.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\bin\Debug\net6.0\M_ Capital_or_Small_or_Digit.dll
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\bin\Debug\net6.0\M_ Capital_or_Small_or_Digit.pdb
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.dll
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\refint\M_ Capital_or_Small_or_Digit.dll
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.pdb
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\M_ Capital_or_Small_or_Digit.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\M_ Capital_or_Small_or_Digit\obj\Debug\net6.0\ref\M_ Capital_or_Small_or_Digit.dll
