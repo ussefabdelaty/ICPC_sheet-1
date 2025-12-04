@@ -1,0 +1,15 @@
+E:\issam_csharp\ICPC_prob\N_char\bin\Debug\net6.0\N_char.exe
+E:\issam_csharp\ICPC_prob\N_char\bin\Debug\net6.0\N_char.deps.json
+E:\issam_csharp\ICPC_prob\N_char\bin\Debug\net6.0\N_char.runtimeconfig.json
+E:\issam_csharp\ICPC_prob\N_char\bin\Debug\net6.0\N_char.dll
+E:\issam_csharp\ICPC_prob\N_char\bin\Debug\net6.0\N_char.pdb
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.csproj.AssemblyReference.cache
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.AssemblyInfoInputs.cache
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.AssemblyInfo.cs
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.csproj.CoreCompileInputs.cache
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.dll
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\refint\N_char.dll
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.pdb
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\N_char.genruntimeconfig.cache
+E:\issam_csharp\ICPC_prob\N_char\obj\Debug\net6.0\ref\N_char.dll
